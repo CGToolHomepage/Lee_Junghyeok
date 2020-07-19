@@ -1,0 +1,158 @@
+
+.header{
+    height: 100px;
+}
+
+.LoginDiv{
+    border-bottom: 1px solid gray;
+}
+
+.logo{
+    float: left;   
+}
+
+div{
+    font-style: initial;
+}
+.chung{
+    float: left;
+    width: 100%;
+    
+}
+#categoryDown {
+    height: 100%;
+    width: 100%;
+    float:left;
+}
+
+.searchBar {
+    float: left;
+    border: solid 5px rgb(0, 255, 255);
+    height: 50px;
+    width: 100%;
+    margin-left: 0px;
+    margin-top: 10px;
+    border-radius : 10px;
+    
+}
+input[type="text"]{
+    height: 30px;
+    border: none;
+    margin-left: 5px;
+    margin-top: 5px;
+    width: 90%;
+    font-size: 24px;
+}
+
+button{
+    background-color: #ffffff;
+    border: none;
+    vertical-align: bottom;
+    width:30px;
+    height:30px;
+}
+
+#searchICon{
+    border: none;
+    width:25px;
+    height:28px;
+}
+
+.menu{
+    border-top: 1px solid rgb(85, 85, 85);
+    height:50px;
+    border-bottom: 1px solid rgb(85, 85, 85);
+}
+
+
+
+
+
+#categoryFirst {
+    float: left;
+    background-color: rgb(85, 85, 85);
+    border-left:1px solid rgb(85, 85, 85);
+    width: 200px;
+    height: 50px;
+    text-indent: 1em;
+    color:white;
+    font-family :Sans-Serif;
+    font-size : 25px;
+    border-bottom :solid 1px white;
+}
+
+.categoryDown {
+    background-color: rgb(85, 85, 85);
+    border-left:1px solid rgb(85, 85, 85);
+    width: 200px;
+    height: 50px;
+    text-indent: 1em;
+    color:white;
+    font-family :Sans-Serif;
+    font-size : 25px;
+    border-top :solid 1px white; 
+
+}
+a {
+    text-decoration: none !important;
+}
+
+.categoryMenu {
+    float:left;
+    color :black;
+    font-size: 25px;
+    width: 200px;
+    font-family :Sans-Serif;
+    text-indent: 1em;
+    text-decoration: initial;
+    border-right:1px solid rgb(85, 85, 85);
+}
+
+
+.productCategory {
+    float: none;
+    margin-top: 25px;
+    font-size: 25px;
+    color : black;
+    text-indent: 1em ;
+}
+
+
+.jumbotron {
+    background-color: white !important;
+    margin-bottom: 0px !important;
+    padding: 0px !important;
+}
+
+main {
+    background-color: gray;
+    height: 2000px;
+}
+
+.product {
+
+    float: left;
+    margin: 10px;
+    color: black;
+    height: 200px;
+}
+
+.productImg > img {
+    
+    width: 200px;
+    height: 200px;
+}
+
+.container{
+    width: 100% !important;
+}
+
+.productBox {
+    background-image: url(preview.jpg);
+    background-color:black;
+    height: 350px;
+}
+
+.category{
+    margin-top: 30px;
+}
